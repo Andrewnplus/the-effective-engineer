@@ -10,7 +10,7 @@ bookCollapseSection: true
 
 {{% hint warning %}}
 📖: _The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact_  
-👨‍💼: Edmond Lau     
+👨‍💼: Edmond Lau  
 ✍️: March 19, 2015  
 🛒: https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107  
 {{% /hint %}}
