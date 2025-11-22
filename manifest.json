@@ -1,0 +1,15 @@
+{
+  "name": "The Effective Engineer",
+  "short_name": "The Effective Engineer",
+  "start_url": "/the-effective-engineer/",
+  "scope": "/the-effective-engineer/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/the-effective-engineer/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
